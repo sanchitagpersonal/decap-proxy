@@ -156,3 +156,4 @@ Once that configuration has been pushed out to your website, you can test the li
 
 If you do manage to authenticate using the GitHub OAuth App, but DecapCMS gives you an error about the repository not being found, make sure you have configured the repository name and owner correctly in your config.yml file. Also if your repo is private, make sure you configured the `GITHUB_REPO_PRIVATE` variable correctly in step 2.2.
 
+
