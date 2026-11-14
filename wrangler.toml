@@ -120,3 +120,6 @@ GITHUB_REPO_PRIVATE = "1"             # Should be set to "1", if your website re
 # [[vectorize]]
 # binding = "MY_INDEX"
 # index_name = "my-index"
+
+[observability]
+enabled = true
